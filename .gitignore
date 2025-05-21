@@ -29,3 +29,4 @@ bin
 
 .terraform*
 *.tfstate
+infra/resources/foundation/terraform.tfstate.backup
